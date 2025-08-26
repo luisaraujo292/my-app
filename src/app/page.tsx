@@ -1,9 +1,9 @@
-import Image from "next/image";
+//import Image from "next/image";
  
 export default function Home() {
   return (
     <div>
-      Alô. A Agencia Qualidade reservou o dominio 'credgaz.com'. Obrigado.
+      Alô. A Agencia Qualidade reservou o dominio 'credgaz.com.br'. Obrigado.
     </div>
   )
 }
