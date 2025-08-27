@@ -3,7 +3,7 @@
 export default function Home() {
   return (
     <div>
-      Alô. A Agencia Qualidade reservou o dominio credgaz.com.br. Obrigado.
+      Alô. Breve teremos novidades neste portal. Obrigado.
     </div>
   )
 }
